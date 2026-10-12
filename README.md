@@ -1,5 +1,6 @@
 # 💰 High-Frequency FinTech Streaming Ingestion & Compliance Core
 
+📄 **[View My Professional Engineering Resume File](./professional_engineering_resume.md)**
 An enterprise-grade, high-throughput asynchronous financial telemetry pipeline engineered to consume real-time crypto asset ticks, execute token-bucket rate limiting compliance, and apply zero-knowledge cryptographic masking at institutional scale.
 
 ## ✨ Implemented Architectural Features:
